@@ -79,26 +79,26 @@ Percentage: **92.63%**
 ## 📊 Academic Projects
 
 ### 💼 Statistical analysis of wholesale price index
--Analyzed India’s WPI (base year 2011-12) using panel data, clustering commodities by 10-year price trends to identify
+- Analyzed India’s WPI (base year 2011-12) using panel data, clustering commodities by 10-year price trends to identify
 key contributors to inflation.
--In India WPI is the main Measure of Inflation, Main Purpose served as predicting the Inflation Rate at Wholesale Level
+- In India WPI is the main Measure of Inflation, Main Purpose served as predicting the Inflation Rate at Wholesale Level
 for Upcoming 2-3 Months.
--Implemented time series forecasting models, selecting Seasonal ARIMA with drift for optimal accuracy (RMSE: 2.89,
+- Implemented time series forecasting models, selecting Seasonal ARIMA with drift for optimal accuracy (RMSE: 2.89,
 MAE: 2.08).
 
 
 ### 💼 Mushroom Classification
--Developed and executed an end-to-end Mushroom Classification project, showcasing exceptional proficiency in
+- Developed and executed an end-to-end Mushroom Classification project, showcasing exceptional proficiency in
 modular coding and different supervised techniques.
--Achieved more than 90% accuracy using hyperparameter tuning, demonstrating a high level of accuracy in predicting
+- Achieved more than 90% accuracy using hyperparameter tuning, demonstrating a high level of accuracy in predicting
 mushroom classes.
--Built the project using Flask, integrating Python’s robustness to create a user-friendly web app, and deployed on AWS
+- Built the project using Flask, integrating Python’s robustness to create a user-friendly web app, and deployed on AWS
 Beanstalk for seamless scalability, ensuring 100% uptime and availability.
 
 ### 💼 MCQ Generator
 - Designed an automated system for generating subject-specific MCQs using Google’s Gemini model and LangChain,
 creating quizzes with adjustable tone and complexity suited to different student levels.
--Constructed a SequentialChain workflow achieving over 95% accuracy in grammar and complexity checks, ensuring
+- Constructed a SequentialChain workflow achieving over 95% accuracy in grammar and complexity checks, ensuring
 questions aligned with students’ cognitive abilities and learning goals.
 
 
