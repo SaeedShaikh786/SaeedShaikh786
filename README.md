@@ -7,6 +7,8 @@
 
 <p align="center">Location: Baner, Pune - 411045, India 🇮🇳</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SaeedShaikh786&label=Profile%20views&color=0e75b6&style=flat" alt="SaeedShaikh786" /> </p>
+
 ---
 
 ### 🛠️ Skills & Expertise
