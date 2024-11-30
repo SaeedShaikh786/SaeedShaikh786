@@ -104,9 +104,15 @@ Beanstalk for seamless scalability, ensuring 100% uptime and availability.
 creating quizzes with adjustable tone and complexity suited to different student levels.
 - Constructed a SequentialChain workflow achieving over 95% accuracy in grammar and complexity checks, ensuring
 questions aligned with students’ cognitive abilities and learning goals.
-
-
 ---
+## <font size="5">📊 GitHub Stats</font>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaeedShaikh786&show_icons=true&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaeedShaikh786&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedShaikh786&layout=compact&theme=radical">
+</p>
+
+
 
 ## 🌐 Let's Connect!
 I'm always open to networking and collaborations.  
