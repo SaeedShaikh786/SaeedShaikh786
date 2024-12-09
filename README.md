@@ -5,7 +5,7 @@
   <a href="https://github.com/SaeedShaikh786"><img src="https://img.shields.io/badge/GitHub-SaeedShaikh786-black?style=flat-square&logo=github"></a>
 </p>
 
-<p align="center">Location: Baner, Pune - 411045, India 🇮🇳</p>
+<p align="center">Location: Pune - 411045, India 🇮🇳</p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
